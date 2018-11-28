@@ -1,6 +1,6 @@
-﻿token=NTE3MDE2Nzk4ODM1NjM4Mjky.Dt8GuQ.umAl4ui7lVbA1SEbvidsVHtgYLY
+token=NTE1NzQxMDgwNjEyODk2ODAx.Dt-P3w.PqY2cHw1199uc4GPzkxJiNJOTFc
 owner=509719956473249802
-prefix= G
-game= Gplay
+prefix= $
+game= الي ملوش كبير بيشتريلو كبير 
 stayinchannel=true
 songinstatus=true 
