@@ -1,4 +1,4 @@
-token=NTE1NzQxMDgwNjEyODk2ODAx.Dt-P3w.PqY2cHw1199uc4GPzkxJiNJOTFc
+token=
 owner=353857391646998528
 prefix= $
 game= الي ملوش كبير بيشتريلو كبير 
