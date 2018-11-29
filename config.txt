@@ -1,4 +1,4 @@
-token=
+token=process.evn,TOKEN
 owner=353857391646998528
 prefix= $
 game= الي ملوش كبير بيشتريلو كبير 
